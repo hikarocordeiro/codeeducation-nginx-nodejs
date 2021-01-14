@@ -1,9 +1,6 @@
 /node/node_modules
 /.nginx
 
-!/mysql/
-/mysql/*
-!/mysql/nodedb/
-!/mysql/init.sql
+
 
 /log/nginx/*
